@@ -245,5 +245,5 @@ public class Accident_Log extends javax.swing.JFrame {
     private javax.swing.JTextField jTextField5;
     private javax.swing.JTextField jTextField6;
     private javax.swing.JTextField jTextField7;
-    // End of variables declaration//GEN-END:variables
+  
 }
