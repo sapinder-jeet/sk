@@ -14,10 +14,6 @@ import java.util.logging.Logger;
 import javax.swing.JPanel;
 
 
-/**
- *
- * @author ICS
- */
 public class Bus_Menu extends javax.swing.JFrame {
 
     /**
